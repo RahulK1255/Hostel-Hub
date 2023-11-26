@@ -1,0 +1,30 @@
+/* *{
+   box-sizing: border-box;
+   border: 2px solid red;
+} */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.Navigation_bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Hostel_Hub_logo img {
+    height: 40px;
+    width: auto;
+    margin-right: 2px; 
+}
+
+.Hostel_Hub_icon {
+    padding-left: 100px;
+    display: flex; 
+    align-items: center; 
+}
+.Hostel_Hub_Symbol{
+    padding-bottom: 5px;
+    font-size: 30px;
+}
+
